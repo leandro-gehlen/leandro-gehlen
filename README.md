@@ -30,6 +30,6 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/leandro-gehlen/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/leandro-gehlen/blob/output/github-contribution-grid-snake.svg)
  
 </div>
