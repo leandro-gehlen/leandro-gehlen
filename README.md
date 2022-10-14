@@ -1,10 +1,10 @@
-## Hi, I am Erica Grundy! 
+## Hi, I am Leandro Gehlen! (eng)/ Olá, eu sou Leandro Gehlen!(port-br)
 </br>
 
  <div>
-  <a href="https://github.com/eagrundy">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagrundy&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eagrundy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <a href="https://github.com/leandro-gehlen">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-gehlen&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leandro-gehlen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
  ## Skills
