@@ -1,4 +1,4 @@
-## Hi, I am Leandro Gehlen![en]/ Olá, eu sou Leandro Gehlen![pt-br]
+## Hi, I am Leandro Gehlen! [en] / Olá, eu sou Leandro Gehlen! [pt-br]
 </br>
 
  <div>
@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leandro-gehlen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
- ## Skills
+ ## Skills [en] / Habilidades [pt-br]
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="leandro-gehlen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,7 +27,7 @@
   
 </br>
 
-## Contact 
+## Contact [en]/ Contato [pt-br]
 <div> 
   <a href="https://www.linkedin.com/in/leandro-gehlen-61159738/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto: legedeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
