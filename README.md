@@ -1,12 +1,12 @@
 ## Hi, I am Leandro Gehlen! [en] / Olá, eu sou Leandro Gehlen! [pt-br]
 </br>
-
 ### Repo Notations:  
 >+ BL - Backend Learning  
 >+ FL - Frontend Learning  
 >+ CA - Clean Architecture  
 >+ PP - Personal Project  
->+ C - Course Project
+>+ C - Course Project  
+>+ DevOpsL - DevOps Learning
 
  <div>
   <a href="https://github.com/leandro-gehlen">
