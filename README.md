@@ -6,6 +6,7 @@
 >+ FL - Frontend Learning  
 >+ CA - Clean Architecture  
 >+ PP - Personal Project  
+>+ C - Course Project
 
  <div>
   <a href="https://github.com/leandro-gehlen">
