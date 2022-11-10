@@ -1,5 +1,6 @@
 ## Hi, I am Leandro Gehlen! [en] / Olá, eu sou Leandro Gehlen! [pt-br]
 </br>
+  
 ### Repo Notations:  
 >+ BL - Backend Learning  
 >+ FL - Frontend Learning  
