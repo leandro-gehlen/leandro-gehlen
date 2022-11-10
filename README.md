@@ -1,6 +1,12 @@
 ## Hi, I am Leandro Gehlen! [en] / Olá, eu sou Leandro Gehlen! [pt-br]
 </br>
 
+### Repo Notations:  
+>+ BL - Backend Learning  
+>+ FL - Frontend Learning  
+>+ CA - Clean Architecture  
+>+ PP - Personal Project  
+
  <div>
   <a href="https://github.com/leandro-gehlen">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-gehlen&layout=compact&langs_count=16&theme=dracula"/>
